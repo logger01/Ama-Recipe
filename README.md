@@ -1,4 +1,4 @@
-# Ama-Recipe is my Angular Project using Firebase as backend.
+# Ama-Recipe is my Angular Project a single page application (SPA) using Firebase as backend.
 If you want to run this project in your local system for development:
 > Just make a simple angular project first and get these project files and: 
 > npm install
